@@ -1,4 +1,4 @@
-## Naveen Rathore 👋
+## 👋 Hi, I'm Naveen Rathore
 
 
 # 💫 About Me:
