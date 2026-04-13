@@ -1,6 +1,6 @@
 ## Naveen Rathore 👋
 
-<!--
+
 # 💫 About Me:
 🔭 I’m currently working on  <br>Scalable MERN stack applications and real-world problem-solving projects  <br><br>👯 I’m looking to collaborate on  <br>Innovative web apps and data analysis projects  <br><br>🤝 I’m looking for help with  <br>Optimizing backend performance and advanced data visualization  <br><br>🌱 I’m currently learning  <br>Python for Data Analysis (Pandas, NumPy, Seaborn) and system design basics  <br><br>💬 Ask me about  <br>Full Stack Development, REST APIs, JWT Authentication, and Data Handling  <br><br>⚡ Fun fact  <br>I enjoy combining development + data to build smart and impactful solutions 🚀  
 
@@ -18,5 +18,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=naveen-rathore17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
